@@ -1,0 +1,20 @@
+(cl:defpackage your_package-srv
+  (:use )
+  (:export
+   "ADD"
+   "<ADD-REQUEST>"
+   "ADD-REQUEST"
+   "<ADD-RESPONSE>"
+   "ADD-RESPONSE"
+   "MULTIPLY"
+   "<MULTIPLY-REQUEST>"
+   "MULTIPLY-REQUEST"
+   "<MULTIPLY-RESPONSE>"
+   "MULTIPLY-RESPONSE"
+   "SUBTRACT"
+   "<SUBTRACT-REQUEST>"
+   "SUBTRACT-REQUEST"
+   "<SUBTRACT-RESPONSE>"
+   "SUBTRACT-RESPONSE"
+  ))
+
